@@ -39,11 +39,14 @@ export function Footer() {
       <div className="container mx-auto px-6 md:px-12">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-12 mb-16">
           <div>
-            <div className="flex items-center gap-2 mb-6">
-              <Sparkles className="w-6 h-6 text-brand-gold" />
+            <div className="flex items-center justify-center gap-2 mb-6">
+              {/* <Sparkles className="w-6 h-6 text-brand-gold" />
               <span className="font-serif text-3xl font-semibold tracking-wide">
                 Dream & Shine
-              </span>
+              </span> */}
+                    <img
+ src="/images/logo.png"              alt=""
+              className="  w-36" />
             </div>
             <p className="text-gray-400 mb-6 leading-relaxed">
               {tFooter('tagline')}

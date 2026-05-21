@@ -51,11 +51,11 @@ export function Blog() {
               delay: index * 0.1,
               duration: 0.5
             }}
-            className="group bg-white rounded-3xl overflow-hidden shadow-sm border border-transparent hover:border-brand-gold/30 hover:shadow-xl transition-all duration-300 flex flex-col">
+            className="group bg-white rounded-3xl overflow-hidden shadow-sm  border border-transparent hover:border-brand-gold/30 hover:shadow-xl transition-all duration-300 flex flex-col">
             
               <button
               onClick={() => navigate(`/blog/${post.slug}`)}
-              className="relative aspect-[16/10] overflow-hidden text-start">
+              className="relative aspect-[14/10] overflow-hidden text-start">
               
                 <img
                 src={post.image}

@@ -127,7 +127,7 @@ export function BlogPage() {
             
                 <button
               onClick={() => navigate(`/blog/${post.slug}`)}
-              className="relative aspect-[16/10] overflow-hidden text-start">
+              className="relative aspect-[12/10] overflow-hidden text-start">
               
                   <img
                 src={post.image}

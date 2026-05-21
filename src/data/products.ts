@@ -51,12 +51,9 @@ const IMG = {
   blackSeedOil:
 '/images/oil3.png',
   hairSerum:
-  'https://images.unsplash.com/photo-1620916297897-1b1c1b1f0b8a?auto=format&fit=crop&q=80&w=900',
-  conditioner:
-  'https://images.unsplash.com/photo-1626015449880-c40546bfdfa3?auto=format&fit=crop&q=80&w=900',
-  hygieneWash:
-  'https://images.unsplash.com/photo-1570194065650-d99fb4bedf0a?auto=format&fit=crop&q=80&w=900',
-  calamineLotion:
+'/images/hair.png',  conditioner:
+'/images/hair2.png',  hygieneWash:
+'/images/woman.png',  calamineLotion:
 '/images/care2.png',
   calamineCream:
 '/images/care.png',
@@ -81,9 +78,7 @@ Anti_Lice_Shampoo:
 '/images/scan2.png',
   gel:'/images/sh3.png',
   Anti_Acne_Body_Spray:'/images/ant5.png',
-  gel:'/images/sh3.png',
-  gel:'/images/sh3.png',
-  soap:'/images/ant2.png',
+    soap:'/images/ant2.png',
   panthenolcream:
 '/images/scan1.png',
 panthenolLotion:

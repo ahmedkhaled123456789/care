@@ -48,7 +48,7 @@ export function Agents() {
             }}
             className="relative">
             
-            <div className="rounded-[2rem] overflow-hidden shadow-2xl aspect-[4/3]">
+            <div className="rounded-[2rem] overflow-hidden shadow-2xl  ">
               <img
  src="/images/banner/b7.png"
                  alt="Business partnership and boutique"
