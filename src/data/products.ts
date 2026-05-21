@@ -75,8 +75,8 @@ Hair_Fall_Control_Shampoo:
 Anti_Lice_Shampoo:
 '/images/sh3.png',
   faceWash:
-'/images/scan2.png',
-  gel:'/images/sh3.png',
+'/images/v1.png',
+  gel:'/images/v2.png',
   Anti_Acne_Body_Spray:'/images/ant5.png',
     soap:'/images/ant2.png',
   panthenolcream:
@@ -280,15 +280,15 @@ export const products: Product[] = [
 },
 {
   id: 'black-seed-hair-oil',
-  name: { en: 'Black Seed Hair Oil', ar: 'زيت حبة البركة للشعر' },
+  name: { en: 'Black Seed Hair Oil', ar: 'زيت الحبة السوداء  للشعر' },
   category: 'Hair Care',
   shortDescription: {
     en: 'Black seed (Habbatussauda) oil with vitamin E to revitalize tired hair and protect the scalp.',
-    ar: 'زيت حبة البركة مع فيتامين هـ لإحياء الشعر المتعب وحماية فروة الرأس.'
+    ar: 'زيت   الحبة السوداء مع فيتامين هـ لإحياء الشعر المتعب وحماية فروة الرأس.'
   },
   fullDescription: {
     en: 'A revitalizing hair oil featuring traditional black seed (Nigella sativa) extract combined with olive, coconut, and sesame oils, plus vitamin E. Supports a balanced scalp and brings life back to dull, fatigued hair.',
-    ar: 'زيت شعر منعش يحتوي على خلاصة حبة البركة التقليدية مع زيوت الزيتون وجوز الهند والسمسم بالإضافة إلى فيتامين هـ. يدعم توازن فروة الرأس ويعيد الحياة للشعر الباهت والمتعب.'
+    ar: 'زيت شعر منعش يحتوي على خلاصة الحبة السوداء التقليدية مع زيوت الزيتون وجوز الهند والسمسم بالإضافة إلى فيتامين هـ. يدعم توازن فروة الرأس ويعيد الحياة للشعر الباهت والمتعب.'
   },
   image: IMG.blackSeedOil,
   bg: BG[1],
@@ -298,7 +298,7 @@ export const products: Product[] = [
   { en: 'Vitamin E enriched', ar: 'معزّز بفيتامين هـ' }],
 
   ingredients: [
-  { en: 'Black Seed Extract', ar: 'خلاصة حبة البركة' },
+  { en: 'Black Seed Extract', ar: 'خلاصة الحبة السوداء  ' },
   { en: 'Olive Oil', ar: 'زيت الزيتون' },
   { en: 'Coconut Oil', ar: 'زيت جوز الهند' },
   { en: 'Vitamin E (Tocopheryl Acetate)', ar: 'فيتامين هـ' }],
